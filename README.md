@@ -3,7 +3,7 @@
 
 <h3 align="center">Conectate conmigo:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/vincentstephandev/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dlinkedin%2BLogo&psig=AOvVaw0kWHFOMfuxDud_VB4BlHk3&ust=1685323590283000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICflO7tlv8CFQAAAAAdAAAAABAh" alt="vincentstephandev" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/vincentstephandev/" target="blank"><img align="center" src="linkedin_icon-icons.com_65929.svg" alt="vincentstephandev" height="30" width="40" /></a> 
 </p>
 
 <h3 align="center">Langujes y Herramientas:</h3>
