@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Vincent Stephan</h1>
-<h3 align="center">¡Hola! Soy un apasionado desarrollador backend y este es mi repositorio en GitHub, donde comparto todos mis proyectos y logros. Aquí encontrarás una emocionante y colección de proyectos en los que he trabajado.</h3>
+<h3 align="center">¡Hola! Soy un apasionado estudiante aprendiendo desarrollado backend y este es mi repositorio en GitHub, donde comparto todos mis proyectos y logros. Aquí encontrarás una emocionante y colección de proyectos en los que he trabajado.</h3>
 
 <h3 align="center">Conectate conmigo:</h3>
 <p align="center">
